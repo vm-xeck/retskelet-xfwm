@@ -1,0 +1,16 @@
+title_font=Iosevka Bold Extended 9
+title_alignment=left
+full_width_title=false
+
+button_layout=O|HMC
+button_offset=0
+maximized_offset=0
+
+show_app_icon=true
+
+active_text_color=#EBE5E3
+inactive_text_color=#CDC7C5
+active_color_1=#303636
+active_color_2=#50C7B6
+inactive_color_1=#303636
+inactive_color_2=#878888
